@@ -1,4 +1,4 @@
-import { getCard, addPunch, resetCard, addCardTitle } from "./app/actions/punchCard";
+import { getCard, addPunch, resetCard, addCardTitle } from "./actions/punchCard";
 import PunchCard from "@/components/PunchCard";
 
 export default async function Home() {
