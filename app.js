@@ -22,6 +22,10 @@ const connectToDatabase = async () => {
 };
 
 /*
+
+https://learn.mongodb.com/learn/course/connecting-to-mongodb-in-nodejs/lesson-2-connecting-to-an-atlas-cluster-in-nodejs-applications/learn?client=customer
+
+
 const main = async () => {
     try {
         await connectToDatabase();
